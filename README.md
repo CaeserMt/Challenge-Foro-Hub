@@ -27,10 +27,10 @@ La API debe seguir las mejores prácticas del modelo REST, incluyendo validacion
 - **Spring Security**: Para la implementación de autenticación y autorización.
 - **Maven**: Herramienta de gestión de dependencias y construcción del proyecto.
 
-Autor
+## Autor
 Este proyecto fue realizado por Cesar Raul Morales Ticona.
 LinkedIn:
 [Cesar Morales](https://www.linkedin.com/in/cesar-raul-morales-ticona/)
-Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
    
