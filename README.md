@@ -1,6 +1,6 @@
 # Foro Hub - Challenge Back End
 
-## Descripción del Proyecto
+## Descripción del Proyecto 
 
 **Foro Hub** es una API REST diseñada para gestionar tópicos en un foro en línea. El propósito de esta API es permitir que los usuarios puedan crear, leer, actualizar y eliminar tópicos, de acuerdo con el modelo CRUD (Create, Read, Update, Delete). Este desafío forma parte del programa ONE y tiene como objetivo replicar el funcionamiento interno de un foro, usando Spring Boot como el framework backend.
 
